@@ -21,7 +21,7 @@ It’s designed for B2B SaaS signup flows where you want **real business emails*
 ## 🚀 Installation
 
 ```bash
-go get github.com/yourname/emailguard
+go get github.com/vandit1604/emailguard
 ````
 
 ---
@@ -33,7 +33,7 @@ package main
 
 import (
     "fmt"
-    "github.com/yourname/emailguard"
+    "github.com/vandit1604/emailguard"
 )
 
 func main() {
